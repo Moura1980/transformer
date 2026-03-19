@@ -10,4 +10,5 @@ numpy
 Partes Geradas/Complementadas com IA, revisadas por Enzo Dantas:
 
 Sugestão de estrutura inicial para as classes Encoder e Decoder.
+
 Revisão de nomenclatura de variáveis para maior clareza.
