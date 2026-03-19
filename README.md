@@ -1,4 +1,4 @@
-Como Executar:
+## Como Executar:
 
 Pré-requisito: Python 3.7+ e NumPy instalado.
 pip install numpy
