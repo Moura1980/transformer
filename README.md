@@ -1,9 +1,14 @@
 Como Executar:
-Pré-requisito: Python 3.7+ e NumPy instalado.
-pip install numpy
-python transformer.py
+
+Pré-requisito: Python 3.7+ e NumPy instalado.<br>
+pip install numpy<br>
+python transformer.py<br>
+
 Dependências:
-numpy
+
+numpy<br>
+
 Partes Geradas/Complementadas com IA, revisadas por Enzo Dantas:
-Sugestão de estrutura inicial para as classes Encoder e Decoder.
-Revisão de nomenclatura de variáveis para maior clareza.
+
+Sugestão de estrutura inicial para as classes Encoder e Decoder.<br>
+Revisão de nomenclatura de variáveis para maior clareza.<br>
